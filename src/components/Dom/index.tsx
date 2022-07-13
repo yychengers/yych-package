@@ -2,7 +2,7 @@ import React from 'react';
 
 const YDom = () => {
   return (
-    <div>YDom</div>
+    <div>YDom function</div>
   );
 };
 
