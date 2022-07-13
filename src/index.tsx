@@ -15,7 +15,10 @@
 import YButton from './components/Button';
 import YDom from './components/Dom';
 
+const des: string = 'abc';
+
 export {
   YButton,
-  YDom
+  YDom,
+  des
 }
